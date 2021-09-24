@@ -1,5 +1,5 @@
 # AdvGen
-A random Adventurer generator.</br>
+A random Adventurer generator using classes.</br>
 (A program to generate casual NPC concepts for D&D 4e)</br>
 ASKGeo 2021</br>
 </br>
